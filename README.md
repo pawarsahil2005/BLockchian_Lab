@@ -3,7 +3,7 @@
 ## 👨‍🎓 Student Details
 
 * **Name:** Sahil Satish Pawar
-* **Roll Number:** [123B1B228]
+* **Roll Number:** 123B1B228
 * **Course Name:** Blockchain / Distributed Systems Lab
 
 ---
